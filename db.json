@@ -1,0 +1,122 @@
+const data = [
+  {
+    id: 1,
+    judul: `Staf Shokugeki no Souma: Go no Sara Tunda Penayangan Episode Tiga dan Seterusnya`,
+    gambar: `https://news.otakukart.com/wp-content/uploads/2020/04/Shokugeki-no-Souma-Gou-no-Sara-Episode-1-Release-Date-Preview-and-Spoilers.jpg`,
+    info: {
+      pengarang: `Official Shokugeki No Soma`,
+      sumber: `https://twitter.com/shokugeki_anime/status/1251181089911009280`,
+      lokasi: `Twitter`,
+      tanggal: `17 APRIL 2020`,
+    },
+    isi: `Situs web resmi Shokugeki No Soma mengumumkan bahwa musim lima anime akan ditunda, mulai minggu depan, karena efek berkelanjutan COVID-19 di Jepang. 
+    <br>
+    <br>
+    “Karena pengaruh coronavirus baru (COVID-19), siaran setelah episode ke-3 telah ditunda untuk sementara waktu. Saya memutuskan untuk melakukannya, ” pesan di situs web itu dibaca. Tanggal dan waktu penyiaran / penyiaran episode 3 akan diputuskan dan dibagikan di situs web dan akun twitter resmi anime. Food Wars Musim 5 saat ini telah mengudara 2 episode dan tersedia untuk streaming di Crunchyroll.
+    <br>
+    <br>
+
+    Season 5 of Food Wars mulai tayang pada 11 April. Diadaptasi dari manga oleh Tsukuda Yuto dan Saeki Shun bekerja sama dengan Morisaki Yuki, anime ini mengikuti siswa sekolah menengah Yukihira Souma, yang memulai perjalanan ke sekolah kuliner dan seterusnya.
+    `,
+  },
+  {
+    id: 2,
+    judul: `Airani Iofifteen`,
+    gambar: `https://pbs.twimg.com/media/EVDpm4YUEAEIfdT.jpg`,
+    info: {
+      pengarang: `BlueHeaven`,
+      sumber: `http://jurnalotaku.com/2020/04/19/celebrity-sunday-airani-iofifteen/`,
+      lokasi: `Jurnal Otaku`,
+      tanggal: `19 APRIL 2020`,
+    },
+    isi: `Airani Iofifteen dipanggil Iofi (bukan Lofi apalagi Yopi) adalah salah satu dari generasi perdana VTuber keluaran agensi Hololive ID. Memulai debutnya pada tanggal 12 April kemarin, Iofi sudah memiliki sekitar 27 ribu subscriber saat ini. `,
+  },
+  {
+    id: 3,
+    judul: `Fugou Keiji Balance: Unlimited Ditayangkan kembali bulan juli mendatang`,
+    gambar: `https://lostinanime.com/wp-content/uploads/2020/04/Fugou-Keiji-01-37.jpg`,
+    info: {
+      pengarang: `Official Fugou Keiji`,
+      sumber: `https://twitter.com/fugoukeiji_bul/status/1253171740664115201`,
+      lokasi: `Twitter`,
+      tanggal: `23 APRIL 2020`,
+    },
+    isi: `Situs resmi adaptasi anime dari novel karya Yasutaka Tsutsui, “Fugou Keiji: Balance: Unlimited” mengungkap bahwa serial anime mereka akan kembali ditayangkan dari episode pertama pada 16 Juli 2020. Berita ini dirilis pasca pengumuman penundaan episode ketiga yang diumumkan pada 17 April 2020.
+    <br>
+    <br>
+    anime TV baru dari Yasutaka Tsutsui ( Toki wo Kakeru Shoujo ) seri novel terlaris misteri seri Fugou Keiji ( Millionaire Detective ) , telah mengkonfirmasi bahwa itu akan tayang perdana di blok pemrograman tengah malam Fuji TV Noitamina di 25:10 pada 9 April 2020 (JST).
+    <br>
+    <br>
+    Ceritanya berpusat pada Daisuke Kanbe, putra seorang jutawan Kikuemon Kanbe, yang menjadi detektif di kantor polisi dan menyelesaikan berbagai kasus menggunakan kekayaan dan teknologi terbaru. Serial empat episode ini pada awalnya diserialkan di majalah sastra Shosetsu Shincho Shinchosha dari 1975 hingga 1977, kemudian diadaptasi menjadi serial drama TV live-action yang dibintangi Kyoko Fukada (jenis kelamin protagonis diubah menjadi perempuan) selama dua musim pada 2005 dan 2006 .
+`,
+  },
+  {
+    id: 4,
+    judul: `Princess Principal: Crown Handler Misi baru para gadis mata-mata`,
+    info: {
+      pengarang: `BlueHeaven`,
+      sumber: `https://www.crunchyroll.com/anime-news/2020/02/27/a-new-mission-begins-in-princess-principal-crown-handler-film-1st-chapter-trailer`,
+      lokasi: `Mikikazu Komatsu`,
+      tanggal: `28 FEBRUARI 2020`,
+    },
+    gambar: `https://mediaformasi.com/wp-content/uploads/2020/04/crown-handler.jpg`,
+    isi: `Situs resmi untuk serial anime asli Actas Princess Principal  telah memposting trailer 60 detik untuk bab pertama sekuel enam bab mendatang Princess Headal Crown Handler , bersama dengan visual kunci yang digambar oleh perancang karakter / direktur animasi kepala anime Kimitake Nishio . 
+    <br>
+    <br>
+
+    Cuplikan memberikan penggemar mengintip misi baru para gadis, serta membuka tema "Lies & Ties" oleh Void_Chords feat Yui Mugino. Film ini akan melihat Tim Merpati Putih bertugas mengekstraksi dan mengembalikan pemilik toko buku bekas ke Persemakmuran. Sementara itu, setelah upaya pada kehidupan ratu, kegiatan anti-mata-mata telah meningkat, dan Control bahkan khawatir bahwa mereka memiliki agen ganda.
+
+    <br>
+    <br>
+
+  Sebuah anime asli oleh Studio 3Hz dan Actas, Princess Principal berlangsung selama abad ke-20 di Kerajaan Albion fiksi, yang terbagi menjadi dua distrik oleh tembok raksasa: Persemakmuran dan Kerajaan. Kisah ini mengikuti lima mata-mata muda yang bekerja di dalam plot untuk menyusup ke kursi kekuasaan tertinggi.
+
+  <br>
+    <br>
+
+    Asli Principal Putri serial TV anime ditayangkan selama 12 episode dari Juli hingga September 2017. serial TV sutradara Masaki Tachibana kembali untuk mengarahkan, sementara Noboru Kimura ( Gundam Build Divers ) baru saja menjabat sebagai penulis komposisi seri di tempat TV Ichiro Oukouchi .
+    <br>
+    <br>
+
+    
+`,
+  },
+  {
+    id: 5,
+    judul: `Sony Mengembangkan Film Berdasarkan Seri Manga 'One Punch Man' `,
+    gambar: `https://worldnews.easybranches.com/uploads/news/2020/04/venom-writers-developing-one-punch-man-movie-adaptation.jpg`,
+    info: {
+      pengarang: `Justin Kroll`,
+      sumber: `https://variety.com/2020/film/news/sony-film-manga-one-punch-man-venom-writers-1234585282/`,
+      lokasi: `variety.com`,
+      tanggal: `21 APRIL 2020`,
+    },
+    isi: `Scott Rosenberg dan Jeff Pinkner akan menulis adaptasi film aksi langsung dari serial manga hit dunia “ One Punch Man ” untuk Sony Pictures .
+    <br>
+    <br>
+    Sangat populer baik di Jepang dan di seluruh dunia, "One Punch Man" mengikuti kisah Saitama, seorang superhero yang dapat mengalahkan lawan mana pun dengan satu pukulan tetapi berusaha untuk menemukan lawan yang layak setelah bosan dengan kurangnya tantangan dalam pertarungannya. melawan kejahatan.
+    <br>
+    <br>
+    Dibuat pada tahun 2009 oleh artis Jepang ONE sebagai komik web, "One Punch Man" dengan cepat menjadi viral. Pada 2012, buku itu kemudian diterbitkan di Young Jump Next karya Shueisha dengan ilustrasi oleh Yusuke Murata bersama dengan ONE. Serial ini melihat penjualan di seluruh dunia lebih dari 30 juta kopi. Ketika edisi bahasa Inggris yang diterbitkan oleh VIZ Media memulai debutnya di AS pada tahun 2015, volume pertama dan kedua membuat daftar buku terlaris manga New York Times dan dinominasikan untuk Penghargaan Eisner dan Harvey. Sejak itu, popularitas "One Punch Man" telah menyebabkan serial TV anime yang diakui secara kritis, serta video dan game mobile.
+    <br>
+    <br>
+    Orang dalam mengatakan bahwa Sony sangat tinggi dalam hal properti karena popularitasnya dan kemungkinan untuk menambah franchise baru.
+    <br>
+    <br>
+    Rosenberg dan Pinkner telah menjadi favorit di Sony setelah menulis " Venom ," yang sangat sukses , yang menyebabkan sekuel yang akan datang. Mereka juga menulis foto "Jumanji" untuk studio. Angsuran terbaru, "Jumanji: Level Berikutnya," membungkuk Desember lalu dan meraup $ 796 juta di box office di seluruh dunia.`,
+  },
+  {
+    id: 6,
+    judul: `Irohasu Berkolaborasi dengan Iroha dari Oregairu`,
+    gambar: `https://blog-imgs-64.fc2.com/y/a/r/yaraon/gWR6tYd.jpg`,
+    info: {
+      pengarang: `Watari Wataru`,
+      sumber: `https://www.i-lohas.jp/products/tennen/eco/vol2/`,
+      lokasi: `Irohasu Japan`,
+      tanggal: `17 APRIL 2020`,
+    },
+    isi: `Watari Wataru menulis sebuah cerpen tentang Iroha yang bisa dibaca melalui situs resmi Irohasu.
+
+    Sayangnya kolaborasi ini hanya menampilkan satu ilustrasi saja saat Iroha mempromosikan produk tersebut. Tidak ada merchandise khusus bila membeli dalam jumlah tertentu. Kolaborasi diluncurkan bersamaan dengan ultah Iroha pada Kamis (16/4) lalu.`,
+  },
+];
